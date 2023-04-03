@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🎉 Welcome to the New Era for Legal Research
+
+Standing in the intersection of law and machine learning, I believe the research of economic analysis of law in our times has come to a turning point. I'd like to explore a promising field of legal research based on natural language process(NLP) that create a new paradigm leveraging on such advanced AI-assisted tools especially for text processing, to bridge law and NLP in a unified framework.
+
+📩 Please feel free to reach out to me via: zhouziyue1031@gmail.com
+
+
 <!--
 **WilliamZhou233/WilliamZhou233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
