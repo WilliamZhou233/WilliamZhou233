@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🎉 My name is William Zhou, welcome to the new era for legal research!
+🎉 My name is William Chow, welcome to the new era for legal research!
 
 👨‍🎓 I obtained my Master of Laws degree(LLM) from the University of Chicago In June 2022. https://www.law.uchicago.edu/
 
-Nowadays, standing in the intersection of law and machine learning, I believe the research of economic analysis of law in our times has come to a turning point. I'd like to explore a promising field of legal research based on natural language process(NLP) that create a new paradigm leveraging on such advanced AI-assisted tools especially for text processing, to bridge law and NLP in a unified framework.
+Nowadays, standing in the intersection of law and artificial intelligence, I believe the research of economic analysis of law in our times has come to a turning point. I'd like to explore a promising field of legal research based on natural language process(NLP) that create a new paradigm leveraging on such advanced AI-assisted tools especially for text processing, to bridge law and NLP in a unified framework.
 
-📩 Please feel free to reach out to me for more academic collaborations via: zhouziyue1031@gmail.com
+📩 Please feel free to reach out to me for more academic collaborations via: ziyue@connect.hku.hk
 
 
 <!--
