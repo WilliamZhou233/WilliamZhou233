@@ -2,7 +2,7 @@
 
 🎉 My name is William Chow, welcome to the new era for legal research!
 
-👨‍🎓 I obtained my Master of Laws degree(LLM) from the University of Chicago In June 2022. https://www.law.uchicago.edu/
+👨‍🎓 I am a Ph.D. student at the Faculty of Law in the University of Hong Kong. I obtained my Bachelor of Laws degree (LL.B.) from Peking University in July 2021, and Master of Laws degree (LL.M.) from the University of Chicago In June 2022.
 
 Nowadays, standing in the intersection of law and artificial intelligence, I believe the research of economic analysis of law in our times has come to a turning point. I'd like to explore a promising field of legal research based on natural language process(NLP) that create a new paradigm leveraging on such advanced AI-assisted tools especially for text processing, to bridge law and NLP in a unified framework.
 
