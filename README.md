@@ -4,7 +4,7 @@
 
 👨‍🎓 I am a Ph.D. student at the Faculty of Law in the University of Hong Kong. I obtained my Bachelor of Laws degree (LL.B.) from Peking University in July 2021, and Master of Laws degree (LL.M.) from the University of Chicago In June 2022.
 
-🤖 With the progress in artificial intelligence, I believe the legal research in our time has come to a turning point. Recent technological development in natural language process(NLP) and machine learning(ML) has created new possibilites for empirical legal studies. Many new fields and topics deserve exploration. That's a huge opportunity for a new generation of young legal scholars. Let's keep moving forward!
+🤖 With the progress in artificial intelligence, I believe the legal research in our time has come to a turning point. Recent technological development in natural language process(NLP) and machine learning(ML) has created new possibilites for empirical legal studies. Big data and Big Analytics are also fueling many new fields and topics. That's a huge opportunity for a new generation of young legal scholars. Let's keep moving forward!
 
 📩 Feel free to contact me for any academic collaboration via: ziyue@connect.hku.hk.
 
